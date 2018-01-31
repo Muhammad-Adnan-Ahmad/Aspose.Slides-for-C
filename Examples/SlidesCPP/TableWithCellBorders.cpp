@@ -52,7 +52,7 @@ const int NodesCount = 5;
 void TableWithCellBorders()
 {
 
-	// ExStart:TableFromScratch
+	//ExStart:TableWithCellBorders
 	// The path to the documents directory.
 	const String outPath = L"../out/TableWithCellBorders_out.pptx";
 
@@ -91,5 +91,5 @@ void TableWithCellBorders()
 	pres->Save(outPath, Aspose::Slides::Export::SaveFormat::Pptx);
 
 
-	// ExEnd:TableWithCellBorders
+	//ExEnd:TableWithCellBorders
 }

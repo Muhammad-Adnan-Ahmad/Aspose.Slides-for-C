@@ -35,7 +35,7 @@ const String outPath = L"../out/";
 void AccessChildNodes()
 {
 
-	// ExStart:AccessChildNodes
+	//ExStart:AccessChildNodes
 	// The path to the documents directory.
 	const String templatePath = L"../templates/SmartArt.pptx";
 
@@ -72,5 +72,5 @@ void AccessChildNodes()
 			}
 		}
 	}
-	// ExEnd:AccessChildNodes
+	//ExEnd:AccessChildNodes
 }
